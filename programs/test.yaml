@@ -1,0 +1,12 @@
+- name: load_const
+  b: 163
+  c: 2
+- name: read
+  b: 14
+  c: 40
+- name: write
+  b: 49
+  c: 168
+- name: sqrt
+  b: 20
+  c: 74
